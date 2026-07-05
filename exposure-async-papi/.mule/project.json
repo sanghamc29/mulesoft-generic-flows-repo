@@ -1,0 +1,10 @@
+{
+  "modelVersion": "1.0.0",
+  "name": "exposure-async-papi",
+  "version": "1.0.7-SNAPSHOT",
+  "source": "file:///Users/chatterjee.s/git/exposure-async-papi/pom.xml",
+  "natures": [
+    "mule"
+  ],
+  "components": []
+}
